@@ -1,4 +1,0 @@
-pip арқылы тізім шығару (Python ішінен)
-
-import subproces
-subprocess.run(["pip", "list"])
